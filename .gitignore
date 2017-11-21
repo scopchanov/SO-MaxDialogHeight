@@ -1,0 +1,18 @@
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+app/build/
+app/deploy/
+app/doc/
+misc/
+
+# Qt
+*.user
+*.pro.user
+*.pro.user.*
